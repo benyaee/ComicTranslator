@@ -14,6 +14,6 @@ Google Cloud Translate<br />
 <br />
 
 <h1>How to use</h1>
-run gui.py<br />
+run main.py<br />
 You will be met with a gui that allows you to choose the output language of your choice along with the inpainting method<br />
 Multiple file uploading is supported<br />
