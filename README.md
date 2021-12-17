@@ -1,6 +1,6 @@
 # ComicTranslator
 
-To run, provide your google cloud API .json Key in the following methods.<br />
+To run, provide your google cloud API .json Key in the following methods. If you do not have a key follow these instructions https://cloud.google.com/vision/docs/setup<br />
 ocr.py<br />
 translate.py<br />
 replaceText.py<br />
