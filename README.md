@@ -12,4 +12,6 @@ PIL<br />
 OpenCV2<br />
 Google Cloud Translate<br />
 <br />
+
+#How to use
 run gui.py<br />
