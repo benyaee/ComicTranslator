@@ -2,7 +2,7 @@ import os
 import six
 from google.cloud import translate_v2 as translate
 
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="C:\\Users\\benre\\OneDrive\\Desktop\\ComicTranslator\\total-cedar-335014-5412f0edd455.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="Put your .json Google Cloud API Path Key Here"
 
 def translate_text(target, text):
 
