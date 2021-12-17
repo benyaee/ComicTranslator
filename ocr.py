@@ -7,7 +7,7 @@ import translate
 import inpaint
 import replaceText
 
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="C:\\Users\\benre\\OneDrive\\Desktop\\ComicTranslator\\total-cedar-335014-5412f0edd455.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="Put Your Json, API Path Key Here"
 
 #Main Text Detection Method
 def detect_text(path,lang,type):
