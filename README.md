@@ -1,15 +1,15 @@
 # ComicTranslator
 
 To run, provide your google cloud API .json Key in the following methods.
-ocr.py
-translate.py
-replaceText.py
-
-Dependencies are:
-Google Cloud Vision
-Tkinter
-PIL
-OpenCV2
-Google Cloud Translate
-
-run gui.py
+ocr.py<br />
+translate.py<br />
+replaceText.py<br />
+<br />
+Dependencies are:<br />
+Google Cloud Vision<br />
+Tkinter<br />
+PIL<br />
+OpenCV2<br />
+Google Cloud Translate<br />
+<br />
+run gui.py<br />
